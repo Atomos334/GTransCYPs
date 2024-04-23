@@ -1,0 +1,10 @@
+Drug
+CSc1nc2nc3c(c(=O)n2[nH]1)CN(Cc1ccccc1)CC3
+O=C(c1cnccn1)N1CCC2(CC1)CN(c1ccccn1)C2
+Cc1ccc(NC(=S)NC2CCCC2)cc1
+C=CCNCCOCCOc1ccc(C)cc1[N+](=O)[O-]
+NCCSC[C@H](N)C(=O)O
+C=CCn1c(SCc2ccc(C#N)cc2)nnc1-c1ccc(C)cc1
+C#CCCCO/N=C1/C[C@@H](O)[C@@H](O)[C@H]2[C@@H]1CC[C@@H]1C(=O)N(C3CCCCC3)C(=O)[C@H]12
+Cc1noc(C)c1C(=O)N1CCC2(CC1)CN(Cc1cc(C(F)(F)F)cc(C(F)(F)F)c1)C2
+O=C(O)C1C2C=CC3(CN(Cc4ccccn4)C(=O)C13)O2
